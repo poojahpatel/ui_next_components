@@ -1,0 +1,5 @@
+# Ignore client files
+client/*
+utils/apollo/*
+dist/*
+components/widgetComponents
